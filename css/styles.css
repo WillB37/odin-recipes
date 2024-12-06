@@ -1,0 +1,32 @@
+* {
+  font-family: Arial, sans-serif;
+  text-align: justify;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#title {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 45px;
+}
+
+p,
+h3 {
+  padding-left: 1%
+}
+
+.subIngredients {
+  padding-left: 2%;
+}
+
+ul,
+ol{
+  padding-left: 0%
+}
