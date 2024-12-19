@@ -1,8 +1,27 @@
 * {
   font-family: Arial, sans-serif;
-  text-align: justify;
   margin-left: 7%;
   margin-right: 7%;
+}
+
+#recipe {
+  text-align: justify;
+}
+
+.mainBody {
+  width: 900px;
+  margin: 0px auto;
+}
+
+.recipes {
+  width: 400px;
+  margin: 0px auto;
+  font-size: 24px;
+  text-align: center;
+}
+
+#recipeList {
+  list-style: none;
 }
 
 #image {
